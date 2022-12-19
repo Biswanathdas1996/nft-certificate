@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/3668a372-849d-420c-b9dc-1b23cbc4be8a/AppServices/subscriptions/3668a372-849d-420c-b9dc-1b23cbc4be8a/resourceGroups/metaverseapp-rg/providers/Microsoft.Web/sites/awards-recognition",
+  "appService.deploySubpath": "."
+}

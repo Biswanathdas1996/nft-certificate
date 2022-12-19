@@ -1,0 +1,90 @@
+.rightHandSide {
+  background-color: #e88d14;
+}
+
+.lhs1 {
+  /* height: 5vw; */
+
+  background-color: #2a292a !important;
+  color: white;
+  padding: 10px;
+}
+
+.lhs2 {
+  /* height: 40vw; */
+  background-image: url("../assets/bg-with-logo.png");
+  color: black;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 4.5rem !important;
+
+  background-position: center;
+  background-size: cover;
+  display: grid;
+  place-items: center;
+}
+
+@media (max-width: 550px) {
+  .lhs2 {
+    padding: 5px 40px !important;
+    font-size: 12px !important;
+  }
+}
+
+.lhs3 {
+  font-family: Helvetica Neue LT Pro;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 0em;
+  align-items: left;
+  /* height: 5vw; */
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+.lhs3item {
+  margin: 10px 10px 0 10px;
+}
+
+.cardHeaders {
+  width: 100px;
+  /* height: 100px; */
+  background-color: white;
+}
+
+.selectTap {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+  /* height: 50px; */
+  margin: 10px 0 0 0;
+}
+
+.selectTapSelected {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+  border-radius: 4px 4px 0 0;
+  background-color: white;
+  /* height: 50px; */
+  margin: 10px 0 0 0;
+}
+
+.cardHolder {
+  margin: 0 10px 0 30px;
+}
+
+.bottomCardsHolder {
+  margin: 10px 10px 0 30px;
+}
+
+.Headding {
+  margin: 2vw 1vw 0 2vw;
+  font-weight: 500;
+}
+
+.mintdate {
+  margin: 6.5vw 0 0 37.5vw;
+}

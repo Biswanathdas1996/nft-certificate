@@ -1,0 +1,19 @@
+
+
+.iconUi {
+    background: #dd3528;
+        border-radius: 50%;
+        padding: 6px;
+        color: white;
+}
+
+.iconUiemp {
+    color: #F3BE26;
+        border-radius: 50%;
+        /* padding: 6px; */
+        /* color: white; */
+}
+
+.bottomCardsHolderDetails {
+    margin: 5px 2rem;
+}
